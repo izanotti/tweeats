@@ -1,2 +1,2 @@
 # tweeats
-Twitts eater
+Twitts eater, primera aplicación subida a git hub
